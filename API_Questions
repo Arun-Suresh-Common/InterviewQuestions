@@ -1,3 +1,8 @@
 1. Create Pojo class for below json response.
 { "id": "xyz789hijk", "name": "Smartphone", "price": 800, "category": { "main": "Electronics", "sub": "Mobile Devices" } }
- 
+
+2. Diff b/w put and patch api call
+
+3. How we can parse json in api testing
+
+4. How we can extract value from nested array of response

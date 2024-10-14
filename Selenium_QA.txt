@@ -6,3 +6,7 @@ Verify
 If a verify condition fails, the test will continue to run until the last test is executed. The errors will be reported at the end of the test. This is also known as a soft assert. 
 Both assert and verify are used to validate web applications or websites in Selenium WebDriver. They help improve the efficiency of Selenium WebDriver tests by helping to decide if further test scenarios or test suites need to be executed.
 
+2. How we can access dropdown without using seelct class?
+
+
+

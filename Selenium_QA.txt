@@ -1,0 +1,8 @@
+1. Assert vs Verify??
+
+Assert
+If an assert condition fails, the test case is marked as failed, and the remaining tests are skipped. This is used to detect logical errors and invalid assumptions in code. 
+Verify
+If a verify condition fails, the test will continue to run until the last test is executed. The errors will be reported at the end of the test. This is also known as a soft assert. 
+Both assert and verify are used to validate web applications or websites in Selenium WebDriver. They help improve the efficiency of Selenium WebDriver tests by helping to decide if further test scenarios or test suites need to be executed.
+

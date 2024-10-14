@@ -1,0 +1,3 @@
+1. Create Pojo class for below json response.
+{ "id": "xyz789hijk", "name": "Smartphone", "price": 800, "category": { "main": "Electronics", "sub": "Mobile Devices" } }
+ 
